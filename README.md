@@ -46,3 +46,17 @@ $ sMAPE_{final} = 0.25 \times sMAPE_{rougher} + 0.75 \times sMAPE_{final} $
 
 El núcleo del proyecto se encuentra en el notebook principal. La estructura de archivos es:
 ├── gold_recovery_train.csv ├── gold_recovery_test.csv ├── gold_recovery_full.csv ├── Prediccion_oro.ipynb └── README.md
+
+
+-----
+
+## 👩‍💻 Autora
+
+*Jenifer Gonzalez*
+
+Data Science | QA Engineer | Scrum Master 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/jenifer-paola-gonzalez-peñuela)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Jenifer-Gonzalez-DS-QA/jenifergon91))
+
+-----
